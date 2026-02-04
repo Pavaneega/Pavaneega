@@ -19,7 +19,7 @@
 
 - A passionate Self-taught Python developer
 - Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://drive.google.com/file/d/1qmLoLrigktjx-fNZhQBZlD53cgvfq_Ak/view?usp=sharing](https://drive.google.com/file/d/1pHSUnD3YW8n2p6xZe7qrid_1BXaZj55E/view))
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1pHSUnD3YW8n2p6xZe7qrid_1BXaZj55E/view)
 
 <br><br>
 
